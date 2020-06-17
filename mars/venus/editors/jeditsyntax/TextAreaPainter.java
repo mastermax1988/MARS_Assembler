@@ -49,7 +49,7 @@
       
          setFont(new Font("Courier New" /*"Monospaced"*/,Font.PLAIN,14));
          setForeground(Color.black);
-         setBackground(Color.white);
+         setBackground(Color.gray);
       
          tabSizeChars = defaults.tabSize;
          blockCaret = defaults.blockCaret;
